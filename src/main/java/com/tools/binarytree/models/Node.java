@@ -1,4 +1,4 @@
-package com.tools.binarytree;
+package com.tools.binarytree.models;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
